@@ -1,0 +1,6 @@
+videoPath = 'G:\\DataSet\\GTA\\video\\Grand Theft Auto V 2019.08.28 - 10.24.36.03.mp4'
+audioSavePath = 'G:\\DataSet\\GTA\\audio\\GAT.mp3'
+resultVideoPath = 'G:\\DataSet\\GTA\\video\\resultVideo.mp4'
+picDir = 'G:\\DataSet\\GTA\\result'
+tempPath = 'G:\\DataSet\\GTA\\video\\view_0~42000.mp4'
+videoDir = './video'
